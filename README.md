@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=20&section=header&text=Yutan Kim&fontSize=10)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yutan0565)](https://solved.ac/yutan0565)
-
 ![yutan0565's github stats](https://github-readme-stats.vercel.app/api?username=yutan0565&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutan0565)](https://github.com/yutan0565/github-readme-stats)
