@@ -1,12 +1,10 @@
 
 ## 👯 My BAEKHOON Online Judge 👯
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yutan0565)](https://solved.ac/yutan0565/)
 
 
 ## 👩‍💻 My Github Stats 👩‍💻
-
-[![yutan0565's github stats](https://github-readme-stats.vercel.app/api?username=yutan0565&show_icons=true)
+![yutan0565's github stats](https://github-readme-stats.vercel.app/api?username=yutan0565&show_icons=true)
 
 
 
