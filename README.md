@@ -1,7 +1,7 @@
 ## 👯 My BAEKJOON Online Judge - Python👯
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yutan0565)](https://solved.ac/yutan0565/)
 
-## 👯 My BAEKJOON Online Judge - C👯
+## 👯 My BAEKJOON Online Judge - C/C++👯
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yutan056575)](https://solved.ac/yutan056575/)
 
 ## 👩‍💻 My Github Stats 👩‍💻
